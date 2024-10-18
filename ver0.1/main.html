@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+</head>
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f0f0f0;
+    }
+
+    .buttons {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    .buttonleft, .buttonright {
+        background-color: #007BFF;
+        border:none;
+    }
+</style>
+<script>function link(url) { window.open(url); }</script>
+
+<body>
+    <div class="buttons">
+        <button class="buttonleft" onclick="link('type.html')">Kalkulator Pisemny</button> //lewy przycisk
+        <button class="buttonright" onclick="link('button.html')">Kalkulator z Przyciskami</button> //prawy przycisk
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
