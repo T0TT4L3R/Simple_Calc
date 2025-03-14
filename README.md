@@ -23,3 +23,7 @@ Ver 0.5
 -Stworzono kalkulator z przyciskami ktory dziala teraz w 100%
 -Dodano 3 przycisk z instrukcjami dla uzytkownika
     
+Ver 0.6
+
+-zaimplementowano, wykonano i ukończono test jednostkowy
+-poprawiono błędy znalezione podczas testu jednostkowego
