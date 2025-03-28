@@ -27,3 +27,7 @@ Ver 0.6
 
 -zaimplementowano, wykonano i ukończono test jednostkowy
 -poprawiono błędy znalezione podczas testu jednostkowego
+
+Ver 0.7
+
+-dodano opcje kalkulatora pisemnego, jednak nie da się w nim używać spacji
