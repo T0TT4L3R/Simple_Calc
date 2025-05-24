@@ -31,3 +31,8 @@ Ver 0.6
 Ver 0.7
 
 -dodano opcje kalkulatora pisemnego, jednak nie da się w nim używać spacji
+
+Ver 1.0.0
+
+-ulepszono obsługę błędów w kalkulatorze pisemnym
+-naprawiono nie ubsługiwanie spacji
